@@ -1,0 +1,13 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+h1, h2, h3, h4, h5, h6  {
+    font: 400 80px/1.2 'Nixie One', Georgia, serif;
+}
+
+p, div  {
+    font: 400 15px/1.6 'Ledger', Garamond, Georgia, serif;
+}
